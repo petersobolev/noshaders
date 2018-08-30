@@ -1,4 +1,4 @@
-# noshaders
+# No shaders
 No shaders by Frog //ROi<br>
 256 bytes intro for RCA Studio II computer<br>
 <p>
