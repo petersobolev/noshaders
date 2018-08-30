@@ -2,6 +2,7 @@
 ; "No shaders" for RCA Studio II
 ; - 256 bytes intro by Frog for CC'2018
 ;
+; use asmx to assemble
 ;
 ; http://enlight.ru/roi
 ; frog@enlight.ru
