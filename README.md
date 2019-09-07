@@ -2,8 +2,7 @@
 No shaders by Frog //ROi<br>
 256 bytes intro for RCA Studio II computer<br>
 <p>
-![Alt text](https://raw.githubusercontent.com/petersobolev/noshaders/master/screenshot_300.jpg "Screenshot")
-[[https://raw.githubusercontent.com/petersobolev/noshaders/master/screenshot_300.jpg|alt=Screenshot]]
+![ScreenShot](/screenshot_300.jpg)
 <p>It runs on real hardware (RCA Studio II with any available EEPROM cartridge) or with Emma emulator
 
 <p>If you don't have RCA Studio II, check out Youtube video: https://www.youtube.com/watch?v=Y75XFcLE30Y
